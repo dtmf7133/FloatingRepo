@@ -20,7 +20,6 @@ Finish to setup the configuration file apporpriately, in the specific:
 
 ## Screenshot:
 
-![FloatingRepo in action #1](/Public/static/res/screenshot1.jpg)
 ![FloatingRepo in action #2](/Public/static/res/screenshot2.jpg)
 
 
