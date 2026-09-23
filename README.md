@@ -18,4 +18,9 @@ Finish to setup the configuration file apporpriately, in the specific:
 * Configure the APP_BLOG_MAX_POSTS attributes as required.
 * Configure the PAGINATION flag as required.
 
+## Screenshot:
+
+![FloatingRepo in action #1](/res/screenshot1.png)
+![FloatingRepo in action #2](/res/screenshot2.png)
+
 Feedback: code@numd.eu
