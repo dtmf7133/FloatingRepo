@@ -20,7 +20,7 @@ Finish to setup the configuration file apporpriately, in the specific:
 
 ## Screenshot:
 
-![FloatingRepo in action #1](/res/screenshot1.png)
-![FloatingRepo in action #2](/res/screenshot2.png)
+![FloatingRepo in action #1](/res/screenshot1.jpg)
+![FloatingRepo in action #2](/res/screenshot2.jpg)
 
 Feedback: code@numd.eu
