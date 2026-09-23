@@ -11,10 +11,11 @@ First step, use the left side panel password and salt fields to create the hash 
 
 As you are going to run FloatingRepo in the PHP process context, using a limited web server or phpfpm user, you must follow some simple directives for an optimal first setup:
 Check the permissions of your "data" folder in your web app private path; and set its path in the config file.
+
 Finish to setup the configuration file apporpriately, in the specific:
-Configure your users.
-Configure the APP_FILE_MAX_SIZE for the upload appropriately.
-Configure the APP_BLOG_MAX_POSTS attributes as required.
-Configure the PAGINATION flag as required.
+* Configure your users.
+* Configure the APP_FILE_MAX_SIZE for the upload appropriately.
+* Configure the APP_BLOG_MAX_POSTS attributes as required.
+* Configure the PAGINATION flag as required.
 
 Feedback: code@numd.eu
