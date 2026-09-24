@@ -3,7 +3,7 @@ Everyone its files in the box
 
 Hello and welcome to FloatingRepo!
 
-FloatingRepo is a light and simple software on premise to have your voice machine.
+FloatingRepo is a light and simple software on premise to have your file repos.
 
 FloatingRepo is released under GPLv3 license, it is supplied AS-IS and we do not take any responsibility for its misusage.
 
